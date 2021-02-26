@@ -1,0 +1,212 @@
+{
+    "1000": [
+        {
+            "trainNum": 1000,
+            "testNum": 1000,
+            "ACC": 0.932,
+            "precisonRate": 0.9785831960461285,
+            "recallRate": 0.9152542372881356,
+            "datatime": 1589107341.528821
+        },
+        {
+            "trainNum": 1000,
+            "testNum": 1000,
+            "ACC": 0.919,
+            "precisonRate": 0.9741935483870968,
+            "recallRate": 0.9028400597907325,
+            "datatime": 1589108316.075028
+        },
+        {
+            "trainNum": 1000,
+            "testNum": 1000,
+            "ACC": 0.927,
+            "precisonRate": 0.9700315457413249,
+            "recallRate": 0.9192825112107623,
+            "datatime": 1589109288.296344
+        },
+        {
+            "trainNum": 1000,
+            "testNum": 1000,
+            "ACC": 0.918,
+            "precisonRate": 0.9713804713804713,
+            "recallRate": 0.8987538940809969,
+            "datatime": 1589110224.525267
+        },
+        {
+            "trainNum": 1000,
+            "testNum": 1000,
+            "ACC": 0.938,
+            "precisonRate": 0.9861751152073732,
+            "recallRate": 0.9237410071942446,
+            "datatime": 1589111162.921768
+        }
+    ],
+    "2000": [
+        {
+            "trainNum": 2000,
+            "testNum": 1000,
+            "ACC": 0.943,
+            "precisonRate": 0.9841772151898734,
+            "recallRate": 0.929745889387145,
+            "datatime": 1589107477.188701
+        },
+        {
+            "trainNum": 2000,
+            "testNum": 1000,
+            "ACC": 0.949,
+            "precisonRate": 0.9802306425041186,
+            "recallRate": 0.9384858044164038,
+            "datatime": 1589108464.507615
+        },
+        {
+            "trainNum": 2000,
+            "testNum": 1000,
+            "ACC": 0.944,
+            "precisonRate": 0.9798136645962733,
+            "recallRate": 0.9362017804154302,
+            "datatime": 1589109443.424063
+        },
+        {
+            "trainNum": 2000,
+            "testNum": 1000,
+            "ACC": 0.949,
+            "precisonRate": 0.9770642201834863,
+            "recallRate": 0.9466666666666667,
+            "datatime": 1589110370.19674
+        },
+        {
+            "trainNum": 2000,
+            "testNum": 1000,
+            "ACC": 0.952,
+            "precisonRate": 0.9793977812995246,
+            "recallRate": 0.9464012251148545,
+            "datatime": 1589111312.536053
+        }
+    ],
+    "3000": [
+        {
+            "trainNum": 3000,
+            "testNum": 1000,
+            "ACC": 0.954,
+            "precisonRate": 0.9732283464566929,
+            "recallRate": 0.955177743431221,
+            "datatime": 1589107656.040491
+        },
+        {
+            "trainNum": 3000,
+            "testNum": 1000,
+            "ACC": 0.951,
+            "precisonRate": 0.9710806697108066,
+            "recallRate": 0.9550898203592815,
+            "datatime": 1589108658.642419
+        },
+        {
+            "trainNum": 3000,
+            "testNum": 1000,
+            "ACC": 0.949,
+            "precisonRate": 0.9802731411229135,
+            "recallRate": 0.9444444444444444,
+            "datatime": 1589109643.409089
+        },
+        {
+            "trainNum": 3000,
+            "testNum": 1000,
+            "ACC": 0.93,
+            "precisonRate": 0.9623824451410659,
+            "recallRate": 0.9303030303030303,
+            "datatime": 1589110570.321737
+        },
+        {
+            "trainNum": 3000,
+            "testNum": 1000,
+            "ACC": 0.946,
+            "precisonRate": 0.9728867623604466,
+            "recallRate": 0.9428129829984544,
+            "datatime": 1589111503.006562
+        }
+    ],
+    "4000": [
+        {
+            "trainNum": 4000,
+            "testNum": 1000,
+            "ACC": 0.948,
+            "precisonRate": 0.978021978021978,
+            "recallRate": 0.9425113464447806,
+            "datatime": 1589107915.995688
+        },
+        {
+            "trainNum": 4000,
+            "testNum": 1000,
+            "ACC": 0.951,
+            "precisonRate": 0.9739263803680982,
+            "recallRate": 0.952023988005997,
+            "datatime": 1589108896.891126
+        },
+        {
+            "trainNum": 4000,
+            "testNum": 1000,
+            "ACC": 0.969,
+            "precisonRate": 0.9849170437405732,
+            "recallRate": 0.9688427299703264,
+            "datatime": 1589109847.210885
+        },
+        {
+            "trainNum": 4000,
+            "testNum": 1000,
+            "ACC": 0.956,
+            "precisonRate": 0.9779179810725552,
+            "recallRate": 0.9538461538461539,
+            "datatime": 1589110803.533464
+        },
+        {
+            "trainNum": 4000,
+            "testNum": 1000,
+            "ACC": 0.958,
+            "precisonRate": 0.9789473684210527,
+            "recallRate": 0.9587628865979382,
+            "datatime": 1589111720.148674
+        }
+    ],
+    "5000": [
+        {
+            "trainNum": 5000,
+            "testNum": 1000,
+            "ACC": 0.953,
+            "precisonRate": 0.9716088328075709,
+            "recallRate": 0.9550387596899225,
+            "datatime": 1589108194.311942
+        },
+        {
+            "trainNum": 5000,
+            "testNum": 1000,
+            "ACC": 0.963,
+            "precisonRate": 0.9795620437956204,
+            "recallRate": 0.9668587896253602,
+            "datatime": 1589109163.22593
+        },
+        {
+            "trainNum": 5000,
+            "testNum": 1000,
+            "ACC": 0.971,
+            "precisonRate": 0.9846625766871165,
+            "recallRate": 0.9712556732223904,
+            "datatime": 1589110106.990552
+        },
+        {
+            "trainNum": 5000,
+            "testNum": 1000,
+            "ACC": 0.967,
+            "precisonRate": 0.9864457831325302,
+            "recallRate": 0.9646539027982327,
+            "datatime": 1589111056.081769
+        },
+        {
+            "trainNum": 5000,
+            "testNum": 1000,
+            "ACC": 0.97,
+            "precisonRate": 0.9843260188087775,
+            "recallRate": 0.9691358024691358,
+            "datatime": 1589111976.906919
+        }
+    ]
+}
